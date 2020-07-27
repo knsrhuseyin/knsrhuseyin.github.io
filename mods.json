@@ -79,17 +79,15 @@
       "size": 2435626
     },
     {
-      "name": "GalacticraftCore-1.12.2-4.0.2.280.jar",
-      "downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
-      "sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
-      "size": 10610662
-    },
-    {
       "name": "HammerLib-1.12.2-2.0.6.19.jar",
       "downloadURL": "https://media.forgecdn.net/files/2981/74/HammerLib-1.12.2-2.0.6.19.jar",
       "sha1": "9d8c0cfb365fbbb9072dff78931a0ddc208deddf",
       "size": 2429052
     },
+    //"name": "HamerCore",
+    //"downloadURL": "",
+    //"sha1": "",
+    //"size": 
     {
       "name": "ironchest-1.12.2-7.0.72.847.jar",
       "downloadURL": "https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
@@ -101,12 +99,6 @@
       "downloadURL": "https://media.forgecdn.net/files/2728/940/jei_1.12.2-4.15.0.283.jar",
       "sha1": "e0ed64e12612bf50319dd658403f3a781b7fa686",
       "size": 650304
-    },
-    {
-      "name": "MicdoodleCore-1.12.2.jar",
-      "downloadURL": "http://www.dl6.9minecraft.net/index.php?act=download&id=1516892225&hash=5f1a0787ea0d4",
-      "sha1": "f32b76ead6778387b4249f670299a4ac810f94ed",
-      "size": 53300
     },
     {
       "name": "MoreFurnaces-1.12.2-1.10.6.jar",

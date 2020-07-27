@@ -1,0 +1,172 @@
+{
+  "mods": [
+    {
+      "name": "Avaritia-1.12.2-3.3.0.33-universal.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2660/801/Avaritia-1.12.2-3.3.0.33-universal.jar",
+      "sha1": "8a0a6f876d896140194afea6922ea5b84a783058",
+      "size": 972581
+    },
+    {
+      "name": "backpack-3.0.2-1.12.2.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2554/237/backpack-3.0.2-1.12.2.jar",
+      "sha1": "081807b00c859d209aafda8622f2126316d10c25",
+      "size": 236435
+    },
+    {
+      "name": "Baubles-1.12-1.5.2.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar",
+      "sha1": "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549",
+      "size": 108450
+    },
+    {
+      "name": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+      "downloadURL": "https://media.forgecdn.net/files/2574/880/BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar",
+      "sha1": "74d9f70c5fead2c17054953fae26af8d9fb7fd84",
+      "size": 5122856
+    },
+    {
+      "name": "BlackHoleStorage_1.12.2-33r.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2659/397/BlackHoleStorage_1.12.2-32r.jar",
+      "sha1": "7ace6f033d64b0efc38f493533f23a7ea8d64e0e",
+      "size": 1477405
+    },
+    {
+      "name": "BrandonsCore-1.12.2-2.4.18.210-universal.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2867/147/BrandonsCore-1.12.2-2.4.18.210-universal.jar",
+      "sha1": "d2e6cb6b8aea9e7514dedb72f67b06b1089cd392",
+      "size": 825615
+    },
+    {
+      "name": "buildcraft-all-7.99.24.6.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2914/534/buildcraft-all-7.99.24.6.jar",
+      "sha1": "bcea1e36e907f5dd3cd949071cad06c4d33b0781",
+      "size": 4809726
+    },
+    {
+      "name": "Chameleon-1.12-4.1.3.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar",
+      "sha1": "5ed3dd5fd1ebded57bfe525b4ece11232bd14e5e",
+      "size": 96859
+    },
+    {
+      "name": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "sha1": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
+      "size": 704330
+    },
+    {
+      "name": "cxlibrary-1.12.1-1.6.1.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2463/886/cxlibrary-1.12.1-1.6.1.jar",
+      "sha1": "f07bed909d861140ffa5c7dc018587b95e275052",
+      "size": 65319
+    },
+    {
+      "name": "Draconic-Evolution-1.12.2-2.3.25.351-universal.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2867/186/Draconic-Evolution-1.12.2-2.3.25.351-universal.jar",
+      "sha1": "d336c91a57b1880189bd0f1ab7b6038832e5ae06",
+      "size": 5705834
+    },
+    {
+      "name": "extrautils2-1.12-1.9.9.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar",
+      "sha1": "9f9a217b23626cb338cf229054ed490d913610dc",
+      "size": 3226408
+    },
+    {
+      "name": "furniture-6.3.1-1.12.2.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2749/993/furniture-6.3.1-1.12.2.jar",
+      "sha1": "05fcc338d115ba09266ab2da39027ae319efba18",
+      "size": 2435626
+    },
+    {
+      "name": "GalacticraftCore-1.12.2-4.0.2.280.jar",
+      "downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
+      "sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
+      "size": 10610662
+    },
+    {
+      "name": "HammerLib-1.12.2-2.0.6.19.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2981/74/HammerLib-1.12.2-2.0.6.19.jar",
+      "sha1": "9d8c0cfb365fbbb9072dff78931a0ddc208deddf",
+      "size": 2429052
+    },
+    {
+      "name": "ironchest-1.12.2-7.0.72.847.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
+      "sha1": "adc4c785a484c5d5a4ab9a29e1937faeed4312dd",
+      "size": 956692
+    },
+    {
+      "name": "jei_1.12.2-4.15.0.283.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2728/940/jei_1.12.2-4.15.0.283.jar",
+      "sha1": "e0ed64e12612bf50319dd658403f3a781b7fa686",
+      "size": 650304
+    },
+    {
+      "name": "MicdoodleCore-1.12.2.jar",
+      "downloadURL": "http://www.dl6.9minecraft.net/index.php?act=download&id=1516892225&hash=5f1a0787ea0d4",
+      "sha1": "f32b76ead6778387b4249f670299a4ac810f94ed",
+      "size": 53300
+    },
+    {
+      "name": "MoreFurnaces-1.12.2-1.10.6.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2627/678/MoreFurnaces-1.12.2-1.10.6.jar",
+      "sha1": "3b4cbf74e2363e21bcde52180820467ee5432ed5",
+      "size": 122332
+    },
+    {
+      "name": "NuclearCraft-2.18v-1.12.2.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2995/656/NuclearCraft-2.18v-1.12.2.jar",
+      "sha1": "77ec76a1dc0f6330761c58555195c1a1f0a99fb2",
+      "size": 6907702
+    },
+    {
+      "name": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "sha1": "7835c1dcc006e5d4a406a6b0615012b825e25044",
+      "size": 31802
+    },
+    {
+      "name": "simplecore-1.12.2-1.7.3.4.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2629/840/simplecore-1.12.2-1.7.3.4.jar",
+      "sha1": "4bf4e49967d60b1fd74d8107f1bbe896a0909228",
+      "size": 133644
+    },
+    {
+      "name": "simpleores-1.12.2-1.11.2.2.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2629/842/simpleores-1.12.2-1.11.2.2.jar",
+      "sha1": "f6614d8813699cce61ca092a8c804f88703c56b2",
+      "size": 157767
+    },
+    {
+      "name": "SolarFluxReborn_1.12.2-12.3.8.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2887/575/SolarFluxReborn_1.12.2-12.3.8.jar",
+      "sha1": "08b83b067da30340a503abbc936d2d63e4ccba01",
+      "size": 706049
+    },
+    {
+      "name": "StorageDrawers-1.12.2-5.4.2.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2952/606/StorageDrawers-1.12.2-5.4.2.jar",
+      "sha1": "c3f370ed6c158726061211334cbb72fd53f30364",
+      "size": 605947
+    },
+    {
+      "name": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2629/23/Thaumcraft-1.12.2-6.1.BETA26.jar",
+      "sha1": "fe0899048f1796df04e9727bbf1898df30492a00",
+      "size": 11360786
+    },
+    {
+      "name": "TreeChopper-1.12.2-1.2.4.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2492/770/TreeChopper-1.12.2-1.2.4.jar",
+      "sha1": "2f909c06927e39d7fa6107a588cfa9dd81296e75",
+      "size": 124729
+    },
+    {
+      "name": "[1.12.2]+SecurityCraft+v1.8.19.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2992/298/%5b1.12.2%5d+SecurityCraft+v1.8.19.jar",
+      "sha1": "784fb51c04ab2a955bcbc9f35ef1ab3db14504e4",
+      "size": 1697475
+    }
+  ]
+}

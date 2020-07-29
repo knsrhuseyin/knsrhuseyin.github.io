@@ -108,12 +108,12 @@
     "sha1": "3ba1e59a5109f3e94a4a0170877006b72fa77b1e",
     "size": 286144
     },
-    {
-    "name": "journeymap-1.12.2-5.7.1",
-    "downloadURL": "https://media.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
-    "sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
-    "size": 6990968
-    },
+   // {
+    //"name": "journeymap-1.12.2-5.7.1",
+    //"downloadURL": "https://media.forgecdn.net/files/2916/2/journeymap-1.12.2-5.7.1.jar",
+    //"sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
+    //"size": 6990968
+    //},
     {
     "name": "Neat 1.4-17",
     "downloadURL": "https://media.forgecdn.net/files/2595/310/Neat+1.4-17.jar",

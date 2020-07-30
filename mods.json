@@ -127,18 +127,6 @@
     "size": 790070
     },
     {
-    "name": "iChunUtil-1.12.2-7.2.0",
-    "downloadURL": "https://media.forgecdn.net/files/2682/817/iChunUtil-1.12.2-7.2.0.jar",
-    "sha1": "7306e4942c9c9c2262dceb23b2aa25236ca41d90",
-    "size": 581223
-    },
-    {
-    "name": "Morph-1.12.2-7.2.1",
-    "downloadURL": "https://media.forgecdn.net/files/2995/522/Morph-1.12.2-7.2.1.jar",
-    "sha1": "523e25e2ccd2f7fda2695f703406e6a2d49f65ab",
-    "size": 1061182
-    },
-    {
     "name": "ElectroblobsWizardry-4.2.11-MC1.12.2",
     "downloadURL": "https://media.forgecdn.net/files/2929/294/ElectroblobsWizardry-4.2.11-MC1.12.2.jar",
     "sha1": "006e464be81072c196670743c13cc6da132a63f8",

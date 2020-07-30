@@ -145,6 +145,18 @@
       "size": 650304
     },
     {
+      "name": "jei_1.12.2-4.15.0.283.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2728/940/jei_1.12.2-4.15.0.283.jar",
+      "sha1": "e0ed64e12612bf50319dd658403f3a781b7fa686",
+      "size": 650304
+    },
+    {
+      "name": "OptiFine_1.12.2_HD_U_C8.jar",
+      "downloadURL": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_C8.jar&x=138c3fff3401de6f78a1dc569c19e06d",
+      "sha1": "a55768a83db4ad0599f68d9bf3fa8041e2ae3852",
+      "size": 2311528
+    },
+    {
       "name": "MoreFurnaces-1.12.2-1.10.6.jar",
       "downloadURL": "https://media.forgecdn.net/files/2627/678/MoreFurnaces-1.12.2-1.10.6.jar",
       "sha1": "3b4cbf74e2363e21bcde52180820467ee5432ed5",

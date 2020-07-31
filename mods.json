@@ -163,6 +163,30 @@
       "size": 31802
     },
     {
+      "name": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "sha1": "6bd93897638fd68794cae17c9520b68a85fc97d0",
+      "size": 2219736
+    },
+    {
+      "name": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "downloadURL": "https://media.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "sha1": "863e1524fe0087d434a5e44d27cc2dd0353b9399",
+      "size": 505987
+    },
+    {
+      "name": "ThermalDynamics-1.12.2-2.5.6.1-universal",
+      "downloadURL": "https://media.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+      "sha1": "691d7fafc4e104e41b878d8e1ce885785c995840",
+      "size": 728082
+    },
+    {
+      "name": "CoFHCore-1.12.2-4.6.6.1-universal",
+      "downloadURL": "https://media.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "sha1": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e",
+      "size": 848187
+    },
+    {
       "name": "simplecore-1.12.2-1.7.3.4.jar",
       "downloadURL": "https://media.forgecdn.net/files/2629/840/simplecore-1.12.2-1.7.3.4.jar",
       "sha1": "4bf4e49967d60b1fd74d8107f1bbe896a0909228",

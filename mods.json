@@ -133,8 +133,26 @@
     "size": 6765809
     },
     {
+    "name": "Galacticraft-Planets-1.12.2-4.0.2.280",
+    "downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
+    "sha1": "327c7efe184f43b091788e15cbbee5409fabf79b",
+    "size": 3975978
+    },
+    {
+    "name": "GalacticraftCore-1.12.2-4.0.2.280",
+    "downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
+    "sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
+    "size": 10610662
+    },
+    {
+    "name": "MicdoodleCore-1.12.2-4.0.2.280",
+    "downloadURL": " https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
+    "sha1": "906b6088c54a428d7a383796e7b77283cca7e573",
+    "size": 53300
+    },
+    {
       "name": "ironchest-1.12.2-7.0.72.847.jar",
-      "downloadURL": "https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
+      "downloadURL": "https906b6088c54a428d7a383796e7b77283cca7e573://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
       "sha1": "adc4c785a484c5d5a4ab9a29e1937faeed4312dd",
       "size": 956692
     },

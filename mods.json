@@ -133,24 +133,6 @@
     "size": 6765809
     },
     {
-    "name": "Galacticraft-Planets-1.12.2-4.0.2.280.jar",
-    "downloadURL": "http://knsrhuseyin.github.io/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
-    "sha1": "327c7efe184f43b091788e15cbbee5409fabf79b",
-    "size": 3975978
-    },
-    {
-    "name": "GalacticraftCore-1.12.2-4.0.2.280.jar",
-    "downloadURL": "http://knsrhuseyin.github.io/GalacticraftCore-1.12.2-4.0.2.280.jar",
-    "sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
-    "size": 10610662
-    },
-    {
-    "name": "MicdoodleCore-1.12.2-4.0.2.280.jar",
-    "downloadURL": "http://knsrhuseyin.github.io/MicdoodleCore-1.12.2-4.0.2.280.jar",
-    "sha1": "906b6088c54a428d7a383796e7b77283cca7e573",
-    "size": 53300
-    },
-    {
       "name": "ironchest-1.12.2-7.0.72.847.jar",
       "downloadURL": "https906b6088c54a428d7a383796e7b77283cca7e573://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
       "sha1": "adc4c785a484c5d5a4ab9a29e1937faeed4312dd",
@@ -245,6 +227,24 @@
       "downloadURL": "https://media.forgecdn.net/files/2992/298/%5b1.12.2%5d+SecurityCraft+v1.8.19.jar",
       "sha1": "784fb51c04ab2a955bcbc9f35ef1ab3db14504e4",
       "size": 1697475
-    }
+    },
+    {
+    "name": "Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+    "downloadURL": "http://knsrhuseyin.github.io/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+    "sha1": "327c7efe184f43b091788e15cbbee5409fabf79b",
+    "size": 3975978
+    },
+    {
+    "name": "GalacticraftCore-1.12.2-4.0.2.280.jar",
+    "downloadURL": "http://knsrhuseyin.github.io/GalacticraftCore-1.12.2-4.0.2.280.jar",
+    "sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
+    "size": 10610662
+    },
+    {
+    "name": "MicdoodleCore-1.12.2-4.0.2.280.jar",
+    "downloadURL": "http://knsrhuseyin.github.io/MicdoodleCore-1.12.2-4.0.2.280.jar",
+    "sha1": "906b6088c54a428d7a383796e7b77283cca7e573",
+    "size": 53300
+    },
   ]
 }
